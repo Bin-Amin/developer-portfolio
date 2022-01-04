@@ -12,7 +12,7 @@ body{
                 color: orange;
         }
            .flexible-container{
-                display: flex;
+            display: flex;
                 margin-bottom: 150px;
             }
                 .janker{
