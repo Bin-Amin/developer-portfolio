@@ -9,10 +9,13 @@ body{
         }
             section{
                 display: flex;
+                margin-bottom: 150px;
             }
                 .janker{
                     width: 50%;
                     padding-left: 2%;
+                    padding-right: 8%;
+                    padding-bottom: 7%;
                     
                 }
                 .janker img{
@@ -24,10 +27,15 @@ body{
                     font-weight: 700;
                     text-decoration: none;
                     background-image: linear-gradient(orange, tomato);
-                    padding: 10px 40px;
-                    border-radius: 6px;
+                    padding-block: 10px;
+                    border-radius: 4px;
                 }
                     .top{
                         background-image: url(images/top-banner.png);
                         background-repeat: no-repeat;
                     }
+                     .dream-big{
+                         background-image: url(images/dream-bg.png);
+                         background-repeat: no-repeat;
+                         background-position: right;
+                     }
